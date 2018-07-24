@@ -1,3 +1,3 @@
 ## Define your method, mothers_day, below. Go through the README and update your method as needed!
-def mothers_day(mom=)
+def mothers_day(mom="Happy Mother's Day, Mom!")
 
