@@ -2,4 +2,4 @@ def holiday_greeting(holiday="Mother's Day", recipient="Mom", sender="Your Favor
   "Happy #{holiday}, #{recipient}! From #{sender}"
 end
 
-holiday_greeting
+puts holiday_greeting
